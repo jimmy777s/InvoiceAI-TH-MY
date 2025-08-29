@@ -1,4 +1,4 @@
-# 📌 InvoicEAI-TH-MY 使用指南
+# 📌 InvoiceAI-TH-MY 使用指南
 
 **自动化发票信息提取工具**  
 （支持泰国 & 马来西亚发票PDF处理）
